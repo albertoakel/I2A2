@@ -13,7 +13,7 @@ Investigar, entender, encontrar insights e propor soluções para os desafios so
 ## 📁 Estrutura do Projeto
 
 ```bash
-📆 projeto-i2a2-amazonia/
+📆 I2A2/
 │
 ├── data/                 # Dados brutos, processados e fontes externas
 │   ├── raw/              # Dados originais (sem modificação)
@@ -24,6 +24,8 @@ Investigar, entender, encontrar insights e propor soluções para os desafios so
 ├── scripts/              # Scripts Python para ETL, modelagem ou visualização
 │
 ├── outputs/              # Resultados: gráficos, mapas, relatórios
+│
+├── sandbox/              # Códigos e testes livres
 │
 ├── README.md             # Esta documentação
 └── requirements.txt      # Dependências do projeto
