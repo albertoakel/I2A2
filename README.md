@@ -31,26 +31,7 @@ Investigar, entender, encontrar insights e propor soluções para os desafios so
 
 ---
 
-## 📓 Descrição dos Dados
-
-| Variável                 | Tipo       | Descrição                                   |
-| ------------------------ | ---------- | ------------------------------------------- |
-| `municipio`              | categórica | Nome da comunidade/localidade               |
-| `desmatamento`           | numérica   | Área desmatada (hectares)                   |
-| `queimadas`              | numérica   | Número de focos de calor registrados        |
-| `cobertura_vegetal`      | percentual | Percentual de vegetação nativa remanescente |
-| `renda_media`            | numérica   | Renda média domiciliar da comunidade        |
-| `infra_agua`             | binária    | Acesso a água potável (0 = não, 1 = sim)    |
-| `infra_esgoto`           | binária    | Acesso a esgotamento sanitário              |
-| `infra_energia`          | binária    | Acesso à rede elétrica                      |
-| `densidade_populacional` | numérica   | Habitantes por km²                          |
-| `latitude`, `longitude`  | geográfica | Coordenadas geográficas da comunidade       |
-
-> 💡 *Outras variáveis relevantes podem ser adicionadas conforme a análise avança.*
-
----
-
-## 🔍 Metodologia
+## 🔍 Metodologia geral
 
 1. **Pré-processamento dos dados**
 
