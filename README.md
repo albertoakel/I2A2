@@ -21,8 +21,6 @@ Investigar, entender, encontrar insights e propor soluções para os desafios so
 │
 ├── notebooks/            # Jupyter Notebooks com análises exploratórias e visuais
 │
-├── scripts/              # Scripts Python para ETL, modelagem ou visualização
-│
 ├── outputs/              # Resultados: gráficos, mapas, relatórios
 │
 ├── sandbox/              # Códigos e testes livres
@@ -30,31 +28,6 @@ Investigar, entender, encontrar insights e propor soluções para os desafios so
 ├── README.md             # Esta documentação
 └── requirements.txt      # Dependências do projeto
 ```
-
----
-
-## 🔍 Metodologia geral
-
-1. **Pré-processamento dos dados**
-
-   * Limpeza, padronização e enriquecimento.
-
-2. **Análise Exploratória (EDA)**
-
-   * Distribuições, correlações e outliers.
-
-3. **Visualizações geográficas e temporais**
-
-   * Mapas interativos, séries históricas e comparações entre regiões.
-
-4. **Modelagem e insights**
-
-   * Identificação de padrões e agrupamentos de comunidades.
-
-5. **Propostas e recomendações**
-
-   * Soluções orientadas a dados.
-
 ---
 
 ## 📊 Ferramentas e Tecnologias
@@ -65,14 +38,6 @@ Investigar, entender, encontrar insights e propor soluções para os desafios so
 * Streamlit (para dashboards)
 * Git + GitHub
 
----
-
-## 🗌 Resultados Esperados
-
-* Mapas temáticos com sobreposição de variáveis socioambientais
-* Relatórios com análises quantitativas e qualitativas
-* Gráficos interativos que expliquem a relação entre infraestrutura e degradação ambiental
-* Repositório de dados limpos e organizados para reuso
 
 ---
 
