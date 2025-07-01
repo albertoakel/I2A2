@@ -1,0 +1,2 @@
+# Generated from used imports
+matplotlib==3.9.2
