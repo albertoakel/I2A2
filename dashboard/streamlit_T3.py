@@ -27,6 +27,14 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 
+# ---------------------- Configuração da Página ---------------------- #
+st.set_page_config(
+    page_title="Dashboard Ambiental",
+    layout="wide",
+    initial_sidebar_state="expanded",
+)
+
+
 plt.rcParams.update({
     'figure.facecolor': 'none',
     'axes.facecolor': 'none'
@@ -43,12 +51,6 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# ---------------------- Configuração da Página ---------------------- #
-st.set_page_config(
-    page_title="Dashboard Ambiental",
-    layout="wide",
-    initial_sidebar_state="expanded",
-)
 
 st.title("🌎 O Desafio dos Recursos Hídricos e Produtividade na Amazônia - Dashboard 💧  ")
 
@@ -93,6 +95,7 @@ def load_data(file) -> pd.DataFrame:
 #
 #default_path = Path(__file__).parent.parent / "data/processed/base_merge_interp.csv"
 default_path = Path("data/processed/base_merge_interp.csv")
+#default_path = Path("/home/akel/PycharmProjects/I2A2/data/processed/base_merge_interp.csv")
 try:
     df = load_data(default_path)
 except FileNotFoundError:
