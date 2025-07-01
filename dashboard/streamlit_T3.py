@@ -92,7 +92,9 @@ def load_data(file) -> pd.DataFrame:
 #         st.sidebar.error("Arquivo padrão não encontrado em `data/processed/`")
 #         df = None
 #
-default_path = Path(__file__).parent.parent / "data/processed/base_merge_interp.csv"
+#default_path = Path(__file__).parent.parent / "data/processed/base_merge_interp.csv"
+default_path = Path("data/processed/base_merge_interp.csv")
+
 df = load_data(default_path)
 
 # ---------------------- Utilidades ---------------------- #
