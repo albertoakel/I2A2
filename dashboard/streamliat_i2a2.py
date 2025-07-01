@@ -26,6 +26,7 @@ import streamlit as st
 
 import streamlit.components.v1 as components
 
+
 plt.rcParams.update({
     'figure.facecolor': 'none',
     'axes.facecolor': 'none'
@@ -69,23 +70,29 @@ st.divider()
 
 # ---------------------- Carregamento dos Dados ---------------------- #
 
-@st.cache_data(show_spinner=True)
+# @st.cache_data(show_spinner=True)
 def load_data(file) -> pd.DataFrame:
-    """Carrega dados CSV e garante coluna 'data' em datetime."""
-    df = pd.read_csv(file, parse_dates=["data"])
-    return df
-
-st.sidebar.header("📂 Origem dos Dados")
-uploaded_file = st.sidebar.file_uploader(
-    "Carregue seu arquivo CSV", type=["csv"]
-)
-
-if uploaded_file is not None:
-    df = load_data(uploaded_file)
-    st.sidebar.success("Dados carregados com sucesso! ✅")
-else:
-    st.sidebar.info("Envie um CSV contendo a coluna **data** e as demais variáveis numéricas binárias/contínuas.")
-    df = None
+    """Carrega dados CSV e garante a coluna 'data' como datetime."""
+    return pd.read_csv(file, parse_dates=["data"])
+#
+# st.sidebar.header("📂 Origem dos Dados")
+# uploaded_file = st.sidebar.file_uploader("Carregue seu arquivo CSV", type=["csv"])
+#
+# if uploaded_file is not None:
+#     df = load_data(uploaded_file)
+#     st.sidebar.success("Dados carregados com sucesso! ✅")
+# else:
+#     # Caminho padrão para o arquivo fixo
+#     default_path = Path(__file__).parent.parent / "/home/akel/PycharmProjects/I2A2/data/processed/base_merge_interp.csv"
+#     if default_path.exists():
+#         df = load_data(default_path)
+#         st.sidebar.info("Usando base padrão: `base_merge_interp.csv`")
+#     else:
+#         st.sidebar.error("Arquivo padrão não encontrado em `data/processed/`")
+#         df = None
+#
+default_path = Path(__file__).parent.parent / "/home/akel/PycharmProjects/I2A2/data/processed/base_merge_interp.csv"
+df = load_data(default_path)
 
 # ---------------------- Utilidades ---------------------- #
 
@@ -146,7 +153,7 @@ if df is not None:
             ax_ts.scatter(ones, [marker_y] * len(ones), marker="^", s=80, label=f"{col}=1")
         ax_ts.set_ylim(y_min, marker_y + 0.05 * span)
         ax_ts.grid(True, linestyle=":", alpha=0.5)
-        ax_ts.legend(ncol=2)
+        ax_ts.legend(ncol=5, loc=1,bbox_to_anchor=(1.0, -0.15), fontsize=8)
         st.pyplot(fig_ts, use_container_width=True)
 
     st.divider()
