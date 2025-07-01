@@ -25,7 +25,6 @@ from scipy.stats import spearmanr
 import streamlit as st
 
 import streamlit.components.v1 as components
-st.write("✅ App iniciou")
 
 
 plt.rcParams.update({
@@ -94,8 +93,15 @@ def load_data(file) -> pd.DataFrame:
 #
 #default_path = Path(__file__).parent.parent / "data/processed/base_merge_interp.csv"
 default_path = Path("data/processed/base_merge_interp.csv")
+try:
+    df = load_data(default_path)
+except FileNotFoundError:
+    st.warning(
+        "⚠️ Arquivo de dados não encontrado no deploy.\n"
+        "Envie o CSV na barra lateral ou faça upload para o repositório."
+    )
+    df = None     # Evita crash
 
-df = load_data(default_path)
 
 # ---------------------- Utilidades ---------------------- #
 
