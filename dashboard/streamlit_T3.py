@@ -55,7 +55,12 @@ st.markdown("""
 st.title("🌎 O Desafio dos Recursos Hídricos e Produtividade na Amazônia - Dashboard 💧  ")
 
 
-st.markdown("""
+st.markdown(""" 
+> 👤 **Autor:** alberto akel | 📅 **Data:** 2025-24-06 \\
+> 📓 **Notebook :** <https://github.com/albertoakel/I2A2/blob/main/Notebook/Desafio_Recursos_H%C3%ADdricos.ipynb> \\
+> 🔗 **Relatório completo :** <https://github.com/albertoakel/I2A2/blob/main/outputs/tarefa3_i2a2.pdf\
+
+---
 ###  Contexto
 A gestão dos recursos hídricos na Amazônia vem se tornando crítica: estiagens prolongadas e enchentes severas
 desorganizam os ciclos naturais, reduzindo a disponibilidade e a qualidade da água — e, por consequência,impactando:
@@ -138,12 +143,11 @@ if df is not None:
 
     # ========== Séries Temporais ==========
     st.subheader("📊 Séries Temporais – Contínuas & Marcadores")
-    with st.expander("Como interpretar", expanded=False):
+    with st.expander("**O que você verá aqui?**", expanded=False):
         st.markdown(
-            """Selecione variáveis contínuas para ver suas trajetórias ao longo do tempo.
-            Variáveis **binárias** são plotadas como marcadores ^ indicando
-            ocorrências (valor = 1). Isso facilita relacionar eventos discretos a
-            padrões contínuos.
+            """
+            Exibe séries temporais das variáveis selecionadas, permitindo acompanhar a evolução dos dados ao longo do tempo.Linhas representam as variáveis contínuas escolhidas, mostrando suas variações dia a dia.
+            Marcadores em formato de triângulo indicam os eventos ou condições especiais.
             """
         )
     cols_ts_num = st.multiselect(
@@ -171,12 +175,13 @@ if df is not None:
     st.divider()
 
     # ========== Análise Univariada – Histogramas Interativos ==========
-    st.markdown(
-        """### 📈 Análise Univariada – Histogramas Interativos
-Esta seção permite observar a **distribuição histórica** de até três variáveis.
-Linhas vermelha (**média**) e verde (**mediana**) ajudam na interpretação.
-        """
-    )
+
+    st.subheader("📈 Análise Univariada – Histogramas Interativos")
+    with st.expander("**O que você verá aqui?**", expanded=False):
+        st.markdown(
+            """Histogramas das variáveis selecionadas, permitindo visualizar a distribuição dos valores de cada uma delas.A Linha vermelha tracejada indica a média dos dados enquanto
+a linha verde contínua indica a mediana dos dados.            """
+        )
 
     colunas_hist = [
         "chuvas_reais_mm",
@@ -224,9 +229,10 @@ Linhas vermelha (**média**) e verde (**mediana**) ajudam na interpretação.
 
     # ========== Boxplots ==========
     st.subheader("📦 Boxplots Comparativos")
-    with st.expander("O que você verá aqui?", expanded=False):
+    with st.expander("**O que você verá aqui?**", expanded=False):
         st.markdown(
-            """Explicação box-plot e critérios
+            """
+            Os boxplots (ou gráficos de caixa) permitem comparar a distribuição dos valores das variáveis selecionadas. Eles mostram visualmente a mediana, os quartis e possíveis outliers (valores fora do padrão) de cada variável, facilitando a identificação de diferenças, assimetrias e dispersão dos dados.
             """
         )
     vars_box = st.multiselect("Variáveis (até 3):", options=num_cols, default=num_cols[:3], max_selections=3)
@@ -249,9 +255,10 @@ Linhas vermelha (**média**) e verde (**mediana**) ajudam na interpretação.
     sns.set_theme(style="whitegrid", rc={"axes.facecolor": "none", "figure.facecolor": "none"})
 
     st.subheader("🔗 Análise Bivariada – Dois Pares Paralelos")
-    with st.expander("O que você verá aqui?", expanded=False):
+    with st.expander("**O que você verá aqui?**", expanded=False):
         st.markdown(
-            """Explicação bi-variada
+            """
+            Relações entre dois pares de variáveis numéricas, lado a lado. Os gráficos exibem a dispersão dos dados e uma linha de tendência para cada par selecionado, facilitando a identificação de possíveis correlações ou padrões entre as variáveis.
             """
         )
     col1, col2, col3, col4 = st.columns(4)
@@ -283,9 +290,15 @@ Linhas vermelha (**média**) e verde (**mediana**) ajudam na interpretação.
 
     # ========== Mapa de Calor Spearman ==========
     st.subheader("🌡️ Mapa de Calor de Correlações de Spearman")
-    with st.expander("O que você verá aqui?", expanded=False):
+    with st.expander("**O que você verá aqui?**", expanded=False):
         st.markdown(
-            """Explicação mapa de calor
+            """
+            O Mapa de Calor de Correlações de Spearman mostra, de forma visual, como as variáveis do conjunto de dados se relacionam entre si. Cada célula do mapa representa o grau de associação entre dois pares de variáveis, considerando apenas correlações moderadas ou fortes (|ρ| > 0.2) e estatisticamente significativas (p < 0.05).
+
+**Por que Spearman?**\\
+A correlação de Spearman foi utilizada porque os dados não apresentam distribuição normal. Esse método é mais robusto para identificar relações monotônicas (não necessariamente lineares) mesmo quando os dados possuem outliers ou distribuições assimétricas.
+
+
             """
         )
     df_interp = df.set_index("data").interpolate(method="time")
@@ -349,6 +362,45 @@ Linhas vermelha (**média**) e verde (**mediana**) ajudam na interpretação.
         ax_cc.set_title(f"{var_x_cc} ↔ {var_y_cc}   •   rₘₐₓ = {best_r:.2f} @ lag = {best_lag} d")
         ax_cc.grid(alpha=0.3)
         st.pyplot(fig_cc, use_container_width=True)
+
+        # ---------------------- Resumo Final ---------------------- #
+        if df is not None:
+            st.divider()
+            st.subheader("🧾 Resumo Final – Interações Críticas e Propostas")
+
+            st.markdown("""
+        As análises indicam que a **variabilidade climática impacta diretamente** três dimensões centrais na vida das comunidades amazônicas:
+
+        - 🌧️ **Precipitação e Umidade do Solo:** Afetam a produção agrícola com defasagens curtas (~7–10 dias); chuvas excessivas geram efeitos negativos posteriores.
+        - 💧 **Infraestrutura Hídrica e Produção:** Melhores condições de acesso à água tratada estão associadas a maior produção, até 17 dias depois.
+        - 🏥 **Doenças Hídricas:** Associadas a secas ou enchentes, e à má qualidade da água.
+
+        Além disso, a **segurança alimentar** parece responder rapidamente a extremos climáticos, indicando mobilizações locais ou externas.
+
+        **🔧 Propostas Estratégicas**
+        - Instalar sistemas de captação inteligente de chuva com sensores.
+        - Criar monitoramento comunitário de doenças, água e produção.
+        - Promover educação climática e autonomia local com oficinas e cartilhas.
+
+        💡 A combinação de IA, dados locais e tecnologias acessíveis pode fortalecer a **resiliência socioambiental amazônica**.
+        """)
+
+            st.markdown("#### 🔄 Relações Temporais Relevantes (síntese visual)")
+            resumo_dados = {
+                "Chuvas → Umidade Solo": 0.85,
+                "Umidade → Produção": 0.66,
+                "Infraestrutura → Produção": 0.61,
+                "Clima Extremo → Doenças": 0.52,
+                "Doenças → Segurança Alimentar": 0.47
+            }
+            fig_resumo, ax_resumo = plt.subplots(figsize=(10, 4))
+            sns.barplot(x=list(resumo_dados.values()), y=list(resumo_dados.keys()), palette="Blues_d", ax=ax_resumo)
+            ax_resumo.set_xlabel("Correlação |r|")
+            ax_resumo.set_xlim(0, 1)
+            ax_resumo.grid(axis="x", linestyle="--", alpha=0.3)
+            st.pyplot(fig_resumo, use_container_width=True)
+
+
 
     # ---- Top N pares automaticamente ----
 #     st.subheader("🔥 Pares com Maior |r(lag)| (auto)")
