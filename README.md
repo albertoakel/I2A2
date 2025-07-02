@@ -19,6 +19,8 @@ Investigar, entender, encontrar insights e propor soluções para os desafios so
 │   ├── raw/              # Dados originais (sem modificação)
 │   ├── processed/        # Dados limpos e prontos para análise
 │
+├── dashboard/            # resumos e apresentações de resultados
+│
 ├── notebooks/            # Jupyter Notebooks com análises exploratórias e visuais
 │
 ├── outputs/              # Resultados: gráficos, mapas, relatórios
