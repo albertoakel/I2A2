@@ -10,5 +10,6 @@ workspace.xml
 **/__pycache__/
 .ipynb_checkpoints/
 .virtual_documents/
+.devcontainer/
 __pycache__/
 .idea/
