@@ -1,7 +1,6 @@
 # ============================================================
-# 🐢 TURTLE LAB - Monitoramento de Ninhos - v0.01
+# 🐢 Sistema de Monitoramento de Ninhos - v0.01
 # ============================================================
-
 
 # ============================================================
 #                 BASE DE DADOS INICIAL
@@ -216,7 +215,25 @@ def exibir_opcoes(opcoes_map):
 
 
 def inserir_novo_ninho():
-    """Coleta e valida dados para um novo ninho, retornando um dicionário."""
+    """
+    Coleta e valida os dados de entrada para registrar um novo ninho de tartaruga.
+
+    O usuário pode digitar 'voltar' a qualquer momento para cancelar a operação.
+    Todos os campos são validados antes de serem aceitos.
+
+    Returns:
+        dict: Dicionário com os dados do novo ninho no seguinte formato:
+            {
+                "regiao": str,
+                "quantidade_ovos": int,
+                "status": str,
+                "risco": str,
+                "dias_para_eclosao": int,
+                "predadores": bool
+            }
+        None: Se o usuário cancelar a operação.
+    """
+
     print("\n--- Inserir Novo Ninho ---")
     print("Digite 'voltar' a qualquer momento para retornar ao menu principal.")
 
@@ -281,15 +298,15 @@ def inserir_novo_ninho():
 
     predadores = False
     while True:
-        predadores_input = input("Presença de predadores (sim/nao): ").strip().lower()
+        predadores_input = input("O ninho apresenta predadores? (Digite 's ou 1' para sim ou 'n ou 0' para não): ").strip().lower()
         if predadores_input == 'voltar': return None
-        if predadores_input in ['sim', 's']:
+        if predadores_input in ['sim', 's','1']:
             predadores = True
             break
-        elif predadores_input in ['nao', 'n']:
+        elif predadores_input in ['nao', 'n','0']:
             predadores = False
             break
-        print("Entrada inválida. Por favor, digite 'sim' ou 'nao'.")
+        print("Entrada inválida. Por favor, digite para 'sim' ou 'nao'.")
 
     return {
         "regiao": regiao,
@@ -349,9 +366,12 @@ def consultar_estatisticas(data):
         print(" " * 2 + f"{' Região com mais ninhos sob RISCO 🟠 :':<40}{regiao_risco(data, 'sob observaçao')}")
         print(" " * 2 + f"{' Região com mais ninhos sob RISCO 🔴 :':<40}{regiao_risco(data, 'critico')}")
         print("_______")
-        print(" " * 2 + f"{' Presença de predadores e intacto:':<39} {ninhos_predadores_status(data, 'intacto'):>10.0f}")
-        print(" " * 2 + f"{' Presença de predadores e ameaçado:':<39} {ninhos_predadores_status(data, 'ameaçado'):>10.0f}")
-        print(" " * 2 + f"{' Presença de predadores e danificados:':<39} {ninhos_predadores_status(data, 'danificado'):>10.0f}")
+        print(
+            " " * 2 + f"{' Presença de predadores e intacto:':<39} {ninhos_predadores_status(data, 'intacto'):>10.0f}")
+        print(
+            " " * 2 + f"{' Presença de predadores e ameaçado:':<39} {ninhos_predadores_status(data, 'ameaçado'):>10.0f}")
+        print(
+            " " * 2 + f"{' Presença de predadores e danificados:':<39} {ninhos_predadores_status(data, 'danificado'):>10.0f}")
 
         print("-" * 70)
 

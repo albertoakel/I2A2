@@ -1,0 +1,71 @@
+ID,Município,Espécie Observada,Qtd Indivíduos,Temperatura Média (°C),Umidade Média (%),Alvo de Conservação,Data da Observação,Tipo de Clima
+OBSGICn,Oriximiná,,,,,,2025-04-04,Seco
+OBSDLMq,Altamira,Tamanduá-bandeira,12.0,34.4,67.9,Não,2025-02-19,Úmido
+OBSJtSD,Altamira,Macaco-prego,4.0,27.4,84.9,Sim,2025-03-31,Seco
+OBSVJjX,Oriximiná,Tamanduá-bandeira,9.0,29.4,79.8,Não,2025-06-05,Úmido
+OBSOmsa,Paragominas,,,,,,2025-01-17,Muito úmido
+OBSmufg,Altamira,Macaco-prego,7.0,26.0,93.0,Não,2025-01-25,Úmido
+OBSdlIt,Oriximiná,Arara-vermelha,9.0,26.3,95.4,Sim,2024-08-03,Seco
+OBSxNJr,Belterra,Tamanduá-bandeira,10.0,34.3,76.9,Sim,2025-04-03,Seco
+OBSzNwM,Altamira,Macaco-prego,11.0,27.4,74.5,Sim,2025-01-22,Úmido
+OBSlher,Paragominas,Macaco-prego,7.0,27.9,86.0,Não,2024-08-20,Úmido
+OBSDxQL,Belterra,,,,,,2025-07-02,Seco
+OBSVRbS,Oriximiná,Bicho-preguiça,9.0,32.7,70.4,Não,2024-11-16,Muito úmido
+OBSnWAQ,Oriximiná,Tamanduá-bandeira,9.0,27.3,75.7,Sim,2025-01-14,Úmido
+OBSHglo,Paragominas,Macaco-prego,13.0,28.3,73.8,Sim,2024-09-24,Seco
+OBSQnWx,Oriximiná,Onça-pintada,4.0,31.9,78.1,Não,2024-08-28,Úmido
+OBStJdm,Belterra,Bicho-preguiça,4.0,32.8,82.8,Não,2024-09-19,Seco
+OBSYRMZ,Itaituba,Onça-pintada,4.0,35.5,69.6,Não,2025-04-22,Úmido
+OBScAhz,Paragominas,Macaco-prego,14.0,26.2,85.7,Não,2025-05-15,Seco
+OBSWuOT,Altamira,,,,,,2025-04-29,Seco
+OBSYpaV,Paragominas,Macaco-prego,11.0,32.6,87.5,Não,2024-11-17,Seco
+OBSyrDq,Belterra,Macaco-prego,5.0,29.6,80.0,Não,2025-06-07,Seco
+OBSYrrm,Paragominas,Bicho-preguiça,9.0,34.6,93.7,Não,2025-07-13,Seco
+OBSkuKE,Portel,,,,,,2024-08-22,Seco
+OBSmOic,Belterra,Arara-vermelha,1.0,26.2,77.0,Não,2025-01-27,Úmido
+OBSDEWa,Altamira,Bicho-preguiça,15.0,31.0,67.6,Não,2025-04-21,Úmido
+OBSsWNQ,Paragominas,Tartaruga-da-amazônia,13.0,26.3,86.8,Sim,2025-05-16,Muito úmido
+OBSKhZJ,Portel,Tartaruga-da-amazônia,7.0,35.1,95.7,Sim,2025-03-17,Seco
+OBSEztJ,Belterra,Arara-vermelha,11.0,31.8,79.5,Não,2024-12-11,Úmido
+OBSJXhJ,Santarém,Bicho-preguiça,2.0,28.5,84.4,Sim,2025-08-02,Seco
+OBSkiMJ,Santarém,Macaco-prego,2.0,32.4,66.9,Sim,2024-10-26,Úmido
+OBSpiYc,Paragominas,Onça-pintada,2.0,30.4,74.2,Não,2024-10-05,Úmido
+OBSNAUA,Portel,Bicho-preguiça,12.0,34.8,83.8,Não,2024-08-13,Úmido
+OBSghaI,Paragominas,Arara-vermelha,13.0,29.3,68.1,Não,2024-09-12,Muito úmido
+OBSczKh,Itaituba,Arara-vermelha,8.0,34.1,66.8,Sim,2024-08-20,Úmido
+OBSYrdn,Itaituba,Tamanduá-bandeira,6.0,33.4,68.6,Sim,2025-06-24,Úmido
+OBSnkmr,Portel,Arara-vermelha,3.0,29.4,74.2,Sim,2025-05-21,Úmido
+OBSDHJB,Itaituba,Tartaruga-da-amazônia,2.0,25.5,98.0,Sim,2024-08-17,Úmido
+OBSxSVd,Paragominas,Bicho-preguiça,3.0,29.3,80.9,Não,2025-04-30,Úmido
+OBSdpkA,Santarém,Arara-vermelha,1.0,35.3,73.8,Não,2025-03-09,Muito úmido
+OBSfWbx,Itaituba,Tamanduá-bandeira,12.0,35.5,83.3,Não,2025-07-14,Úmido
+OBSuXvE,Santarém,Onça-pintada,4.0,35.2,84.1,Sim,2024-09-17,Seco
+OBSrWUV,Belterra,Macaco-prego,1.0,31.1,81.6,Sim,2024-09-18,Úmido
+OBSVroZ,Portel,Macaco-prego,14.0,27.0,84.6,Sim,2024-10-15,Muito úmido
+OBSiUhi,Altamira,Tartaruga-da-amazônia,4.0,31.1,66.3,Sim,2025-03-21,Muito úmido
+OBSxZEt,Oriximiná,Tartaruga-da-amazônia,10.0,30.5,95.8,Sim,2024-09-23,Seco
+OBSVkTL,Oriximiná,Onça-pintada,4.0,27.8,69.3,Não,2024-08-19,Muito úmido
+OBSlWDZ,Belterra,Macaco-prego,1.0,29.8,97.9,Sim,2025-07-02,Úmido
+OBSrnow,Portel,Bicho-preguiça,9.0,27.8,95.8,Sim,2025-02-20,Úmido
+OBSoStt,Belterra,Onça-pintada,3.0,29.6,82.9,Não,2025-01-18,Seco
+OBSQxDR,Paragominas,,,,,,2025-02-08,Seco
+OBSrqEN,Altamira,Bicho-preguiça,5.0,26.2,68.5,Sim,2024-08-06,Muito úmido
+OBSeKIw,Belterra,Tartaruga-da-amazônia,4.0,32.5,71.7,Não,2025-05-20,Seco
+OBSbUlC,Itaituba,Onça-pintada,15.0,34.5,66.7,Não,2025-06-12,Muito úmido
+OBSBiDA,Altamira,Macaco-prego,6.0,33.1,86.0,Não,2024-11-21,Úmido
+OBSOsFB,Oriximiná,,,,,,2024-12-25,Úmido
+OBSlQIA,Oriximiná,Bicho-preguiça,9.0,25.4,77.2,Sim,2024-09-23,Muito úmido
+OBSwoCK,Santarém,Macaco-prego,5.0,28.8,95.8,Sim,2025-07-13,Muito úmido
+OBSQowu,Santarém,Tamanduá-bandeira,4.0,32.0,76.7,Não,2024-12-12,Seco
+OBSfKhr,Oriximiná,Bicho-preguiça,15.0,34.8,93.5,Sim,2025-01-06,Muito úmido
+OBSjVaE,Altamira,Bicho-preguiça,12.0,34.7,90.8,Não,2024-12-19,Seco
+OBSxpBW,Paragominas,Tamanduá-bandeira,13.0,27.6,70.3,Sim,2025-01-02,Muito úmido
+OBSzcSc,Paragominas,Macaco-prego,14.0,29.9,71.6,Não,2024-08-30,Muito úmido
+OBSGLtK,Belterra,Bicho-preguiça,4.0,25.2,71.4,Não,2025-02-28,Muito úmido
+OBSTewl,Paragominas,Macaco-prego,13.0,27.9,86.2,Não,2025-03-04,Seco
+OBSkhzi,Paragominas,Tartaruga-da-amazônia,6.0,34.9,68.8,Não,2024-09-13,Úmido
+OBSYlPz,Portel,Onça-pintada,1.0,26.1,79.3,Não,2025-01-12,Muito úmido
+OBSFhUX,Portel,Tartaruga-da-amazônia,2.0,29.0,84.0,Não,2025-03-22,Úmido
+OBSkGZl,Oriximiná,Arara-vermelha,1.0,30.5,91.6,Sim,2024-11-08,Muito úmido
+OBSnBLb,Itaituba,Macaco-prego,11.0,34.7,85.6,Sim,2025-04-13,Seco
+OBSBOhF,Belterra,Tartaruga-da-amazônia,5.0,32.0,75.8,Não,2025-05-01,Seco

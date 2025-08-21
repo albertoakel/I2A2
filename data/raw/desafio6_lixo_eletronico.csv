@@ -1,0 +1,151 @@
+﻿ID_Registro,Tipo_Eletronico,Ano_Fabricacao,Origem,Destino_Final,Peso_kg,Nivel_Toxico,Custo_Reciclagem_R$
+1,Impressora,2006,Urbana,Aterro Controlado,30.95,Alto,122.38
+2,Bateria,2002,Urbana,Aterro Controlado,16.89,Alto,48.65
+3,Geladeira,2016,Governamental,Cooperativa,32.82,Baixo,165.25
+4,Impressora,2021,Governamental,Reciclagem Formal,19.33,Baixo,72.29
+5,TV,1997,Industrial,Lixão,34.11,Baixo,72.79
+6,Geladeira,1995,Rural,reciclagem formal,17.1,Médio,11.2
+7,Geladeira,1997,Governamental,Lixão,13.11,Baixo,112.0
+8,,1999,Urbana,Lixão,24.85,Alto,109.21
+9,Computador,2009,,Reciclagem Formal,34.68,Alto,74.42
+10,TV,2008,Governamental,,17.48,Baixo,179.37
+11,celular,1997,Urbana,Lixão,46.84,Baixo,30.11
+12,TV,1995,Urbana,Reciclagem Formal,2.06,Crítico,69.37
+13,TV,1999,Rural,Lixão,20.96,Alto,67.71
+14,Geladeira,2020,Industrial,Lixão,,Médio,23.0
+7,Bateria,2017,Industrial,Lixão,,Crítico,98.82
+16,TV,2008,Rural,Cooperativa,21.23,Baixo,139.12
+17,Tablet,2001,Rural,Cooperativa,28.47,Baixo,
+18,Geladeira,2021,Industrial,Cooperativa,28.84,Alto,35.61
+19,Computador,2003,Industrial,,36.61,Baixo,78.57
+20,Bateria,2009,Governamental,Aterro Controlado,6.47,Médio,5.51
+21,Tablet,2009,urbano,Lixão,,Alto,174.32
+22,,2020,Rural,Lixão,29.07,Baixo,21.48
+23,Computador,2004,Governamental,Reciclagem Formal,43.37,Alto,121.47
+24,Bateria,2022,Urbana,Lixão,28.14,Baixo,197.32
+25,Geladeira,2007,Governamental,Cooperativa,12.01,Baixo,109.64
+26,Celular,2013,Governamental,,34.02,Baixo,185.19
+27,Bateria,2001,Urbana,Rio,37.02,Médio,51.04
+28,Computador,2011,Rural,Lixão,11.99,Médio,153.19
+29,Tablet,2014,Urbana,Cooperativa,18.95,Alto,108.6
+15,Geladeira,1998,Governamental,Rio,,Baixo,145.5
+31,Bateria,1999,Rural,Aterro Controlado,24.88,Baixo,17.16
+32,Celular,2017,Governamental,Rio,19.54,Médio,33.81
+33,Celular,2001,Urbana,Cooperativa,14.95,Baixo,30.96
+34,,2007,Urbana,Rio,5.09,Médio,139.0
+35,,2009,Governamental,Reciclagem Formal,2.77,Baixo,169.67
+36,,2005,Industrial,Rio,47.93,Alto,151.18
+37,Computador,1998,Industrial,Lixão,42.37,Baixo,10.94
+38,Bateria,2007,Urbana,Lixão,17.81,Baixo,174.11
+39,,2001,Urbana,Reciclagem Formal,47.84,Crítico,74.06
+40,Impressora,2021,Industrial,Cooperativa,33.87,Médio,82.45
+41,Tablet,2013,Industrial,Lixão,24.18,Baixo,25.45
+42,Tablet,2016,Governamental,Aterro Controlado,24.7,Baixo,148.79
+43,,2022,Governamental,Lixão,4.26,Crítico,40.55
+44,Tablet,1996,Industrial,Lixão,4.68,Crítico,114.97
+22,TV,2004,Governamental,Cooperativa,30.16,Médio,
+46,Bateria,2007,Governamental,Rio,27.73,Crítico,22.39
+47,Impressora,2019,Rural,,10.72,Alto,109.39
+48,Bateria,2015,Governamental,Reciclagem Formal,47.32,Crítico,50.48
+49,Celular,2000,Urbana,,39.09,Alto,
+50,TV,2022,Governamental,,5.76,Médio,97.42
+51,Geladeira,2022,Governamental,Cooperativa,46.55,Médio,74.25
+52,TV,2006,Industrial,Aterro Controlado,48.71,Médio,131.52
+53,Impressora,2006,Urbana,Rio,49.8,Médio,98.52
+54,Geladeira,2014,Governamental,Rio,2.89,Médio,118.92
+55,Celular,2005,Governamental,Rio,36.88,Alto,
+56,Impressora,2020,,Aterro Controlado,,Alto,113.76
+57,Computador,2017,Governamental,Rio,35.32,Médio,
+58,Bateria,2022,Governamental,Aterro Controlado,48.44,Crítico,115.07
+59,Celular,2019,Rural,Rio,34.43,Baixo,
+30,Bateria,2001,Industrial,Reciclagem Formal,41.86,Médio,70.8
+61,Tablet,1995,Governamental,Rio,43.36,Crítico,180.43
+62,Computador,1995,Rural,Aterro Controlado,41.94,Baixo,123.47
+63,,2019,Urbana,Lixão,21.36,Médio,52.65
+64,Celular,2021,Industrial,Rio,11.21,Médio,
+65,,2019,Urbana,Lixão,19.89,Alto,69.42
+66,Geladeira,2014,,Reciclagem Formal,44.61,Baixo,187.07
+67,Computador,2007,Rural,Cooperativa,7.42,Baixo,6.47
+68,Bateria,2003,Governamental,Reciclagem Formal,,Crítico,48.94
+69,Bateria,1997,Rural,Rio,11.74,Alto,76.24
+70,Impressora,2001,Rural,Lixão,29.11,Alto,100.12
+71,,2000,Rural,Lixão,43.17,Alto,170.91
+72,Impressora,2002,Rural,Aterro Controlado,44.03,Alto,22.14
+73,Bateria,2021,Industrial,Lixão,11.91,Baixo,
+74,Geladeira,2003,Governamental,Aterro Controlado,45.39,Baixo,15.85
+37,,1999,Urbana,Cooperativa,29.64,Médio,169.25
+76,TV,1995,Urbana,Rio,,Médio,15.07
+77,Tablet,2013,Governamental,Aterro Controlado,35.44,Alto,8.56
+78,Celular,2004,Urbana,Cooperativa,24.14,Alto,140.91
+79,Bateria,2006,,Lixão,18.96,Alto,199.46
+80,Computador,2018,,Lixão,35.28,Médio,179.84
+81,Bateria,2009,Rural,Cooperativa,,Crítico,
+82,Computador,2021,Urbana,Lixão,16.58,Crítico,183.89
+83,Tablet,2016,Governamental,Cooperativa,21.78,Médio,6.03
+84,Tablet,2018,,Aterro Controlado,12.76,Médio,195.14
+85,Tablet,2003,Governamental,,,Médio,100.7
+86,Computador,2014,Governamental,Cooperativa,28.62,Médio,145.96
+87,Bateria,2011,Governamental,Aterro Controlado,37.07,Médio,165.07
+88,Tablet,2011,Industrial,Aterro Controlado,38.38,Médio,145.1
+89,Geladeira,2020,Industrial,Aterro Controlado,41.16,Alto,109.33
+45,Impressora,2014,,Reciclagem Formal,37.24,Alto,97.94
+91,Computador,2006,Governamental,Rio,34.08,Alto,168.52
+92,Computador,2001,Urbana,Lixão,11.95,Alto,44.99
+93,Bateria,1996,Governamental,Reciclagem Formal,20.07,Médio,193.76
+94,Computador,1997,Governamental,Aterro Controlado,23.94,Crítico,143.64
+95,Computador,2011,Industrial,Cooperativa,4.24,Baixo,43.9
+96,Tablet,1999,Industrial,Aterro Controlado,26.47,Médio,148.57
+97,Bateria,2011,Rural,,21.87,Baixo,108.32
+98,Tablet,2018,Industrial,Aterro Controlado,40.13,Crítico,142.91
+99,Impressora,2011,,Cooperativa,48.9,Alto,154.72
+100,Impressora,2021,Rural,Rio,27.84,Crítico,22.02
+101,Tablet,2011,Rural,Aterro Controlado,16.2,Médio,103.69
+102,Impressora,1996,Rural,Rio,2.27,Alto,186.74
+103,Bateria,1996,Rural,,46.24,Médio,67.53
+104,Celular,2022,Urbana,Lixão,45.96,Alto,
+52,Tablet,2016,Industrial,Aterro Controlado,12.72,Baixo,77.0
+106,Geladeira,2017,Rural,Rio,34.8,Baixo,93.58
+107,Geladeira,1999,Governamental,Cooperativa,3.86,Baixo,111.98
+108,Computador,1995,Industrial,Aterro Controlado,8.39,Crítico,112.04
+109,,1995,Industrial,,,Médio,44.34
+110,Geladeira,2013,,Lixão,14.8,Crítico,
+111,Computador,1996,Urbana,Aterro Controlado,,Baixo,22.13
+112,Celular,2015,Rural,Rio,34.88,Médio,
+113,Bateria,2006,Urbana,Lixão,19.27,Baixo,5.53
+114,Bateria,2020,Governamental,Rio,36.88,Crítico,
+115,Bateria,2000,Industrial,Lixão,45.77,Crítico,97.27
+116,Geladeira,2017,Governamental,Lixão,47.94,Crítico,123.19
+117,Celular,1998,Urbana,Reciclagem Formal,2.99,Baixo,159.89
+118,Geladeira,2017,Urbana,Lixão,19.79,Médio,25.81
+119,Impressora,2005,Governamental,Cooperativa,5.43,Médio,170.89
+60,Geladeira,2018,,Aterro Controlado,,Baixo,150.47
+121,Celular,2021,Governamental,Aterro Controlado,8.57,Médio,84.66
+122,Celular,2011,Industrial,Rio,32.38,Baixo,
+123,Impressora,2000,,Lixão,19.47,Médio,198.23
+124,Celular,2018,Industrial,Cooperativa,11.55,Alto,44.98
+125,Celular,1999,Governamental,Rio,13.37,Alto,78.95
+126,,2014,Urbana,,18.08,Crítico,185.66
+127,Impressora,1996,Governamental,Rio,13.07,Alto,145.71
+128,TV,2000,,Rio,22.72,Alto,14.38
+129,TV,2016,Governamental,,1.71,Alto,157.4
+130,Celular,2005,Governamental,Reciclagem Formal,14.06,Baixo,166.45
+131,TV,2010,Rural,Rio,20.62,Alto,151.35
+132,,2010,Urbana,Cooperativa,30.18,Alto,160.91
+133,Celular,1995,Rural,,13.62,Crítico,165.9
+134,TV,2003,Urbana,Aterro Controlado,6.75,Alto,41.35
+67,Geladeira,2022,Rural,Reciclagem Formal,3.9,Alto,50.96
+136,Computador,2021,,Reciclagem Formal,,Médio,
+137,Impressora,2000,Governamental,Aterro Controlado,20.89,Crítico,182.03
+138,Computador,2010,,Rio,29.1,Crítico,66.66
+139,Celular,1997,Urbana,Reciclagem Formal,45.97,Crítico,119.72
+140,Bateria,2014,Governamental,Cooperativa,4.23,Crítico,138.18
+141,Impressora,2022,Urbana,Cooperativa,,Crítico,93.13
+142,Celular,2021,Urbana,Lixão,27.62,Crítico,144.19
+143,Bateria,1998,Rural,Reciclagem Formal,,Baixo,180.44
+144,Computador,2013,Urbana,,20.62,Alto,126.7
+145,Celular,2020,Industrial,Aterro Controlado,38.9,Crítico,110.26
+146,,1997,Industrial,Aterro Controlado,24.07,Alto,90.56
+147,Impressora,2013,,Rio,49.27,Alto,117.61
+148,Tablet,2014,Urbana,Lixão,18.9,Baixo,74.3
+149,Geladeira,2001,Governamental,Aterro Controlado,37.5,Crítico,81.34
+75,TV,2014,Industrial,,19.71,Médio,108.71

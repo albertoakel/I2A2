@@ -1,0 +1,51 @@
+ID,Espécie,Local de Observação,Qtd Indivíduos,Temperatura Média (°C),Umidade Média (%),Alvo de Conservação
+M001,Macaco-aranha,Serra do Divisor,1,28.7,77,Não
+M002,Macaco-aranha,Reserva Mamirauá,11,27.3,84,Não
+M003,Macaco-prego,APA Marajó,9,29.2,84,Sim
+M004,Zogue-zogue,Parque Anavilhanas,8,28.8,81,Sim
+M005,Macaco-aranha,Serra do Divisor,3,30.3,85,Sim
+M006,Macaco-prego,APA Marajó,4,29.4,82,Sim
+M007,Zogue-zogue,APA Marajó,5,27.0,91,Sim
+M008,Macaco-prego,APA Marajó,10,27.9,95,Sim
+M009,Uacari,Parque Anavilhanas,10,27.7,76,Sim
+M010,Macaco-aranha,Reserva Mamirauá,8,27.3,94,Não
+M011,Macaco-aranha,Parque Anavilhanas,7,31.2,88,Não
+M012,Cuxiú,Floresta Tapajós,8,29.2,91,Sim
+M013,Uacari,Serra do Divisor,2,27.4,84,Não
+M014,Zogue-zogue,Floresta Tapajós,3,30.2,76,Não
+M015,Macaco-prego,APA Marajó,10,29.3,79,Sim
+M016,Zogue-zogue,Reserva Mamirauá,3,27.9,90,Sim
+M017,Macaco-aranha,Floresta Tapajós,3,26.5,91,Não
+M018,Zogue-zogue,APA Marajó,9,31.1,83,Sim
+M019,Zogue-zogue,APA Marajó,2,30.2,93,Não
+M020,Uacari,Floresta Tapajós,3,30.0,82,Não
+M021,Cuxiú,APA Marajó,5,27.9,82,Não
+M022,Macaco-prego,Serra do Divisor,4,29.4,89,Não
+M023,Macaco-prego,Reserva Mamirauá,6,27.7,90,Não
+M024,Uacari,Parque Anavilhanas,1,26.9,94,Não
+M025,Cuxiú,Floresta Tapajós,6,30.4,78,Sim
+M026,Macaco-aranha,APA Marajó,8,29.7,92,Sim
+M027,Zogue-zogue,Reserva Mamirauá,12,28.8,87,Não
+M028,Uacari,Floresta Tapajós,8,27.9,93,Sim
+M029,Uacari,APA Marajó,4,29.6,80,Não
+M030,Zogue-zogue,Parque Anavilhanas,6,29.4,88,Não
+M031,Zogue-zogue,Parque Anavilhanas,3,30.1,89,Não
+M032,Macaco-prego,APA Marajó,7,29.5,90,Não
+M033,Cuxiú,Floresta Tapajós,5,27.0,78,Não
+M034,Uacari,Serra do Divisor,12,27.5,84,Sim
+M035,Macaco-aranha,APA Marajó,6,29.9,85,Não
+M036,Zogue-zogue,Reserva Mamirauá,1,29.6,84,Não
+M037,Macaco-prego,Reserva Mamirauá,12,27.1,93,Não
+M038,Uacari,Floresta Tapajós,3,27.5,86,Sim
+M039,Macaco-prego,Floresta Tapajós,10,28.3,83,Não
+M040,Cuxiú,Reserva Mamirauá,7,28.7,94,Não
+M041,Macaco-prego,Floresta Tapajós,4,29.8,79,Sim
+M042,Zogue-zogue,Parque Anavilhanas,11,29.1,88,Não
+M043,Cuxiú,APA Marajó,6,29.5,85,Sim
+M044,Macaco-aranha,Floresta Tapajós,3,26.7,81,Não
+M045,Cuxiú,APA Marajó,4,27.3,84,Não
+M046,Zogue-zogue,Parque Anavilhanas,10,27.0,82,Não
+M047,Cuxiú,Serra do Divisor,3,28.7,95,Sim
+M048,Uacari,Parque Anavilhanas,9,30.8,91,Sim
+M049,Macaco-aranha,Serra do Divisor,6,29.6,95,Sim
+M050,Macaco-prego,Serra do Divisor,9,28.1,95,Não
