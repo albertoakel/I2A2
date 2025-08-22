@@ -1,151 +1,151 @@
-ID_Registro,Tipo_Eletronico,Ano_Fabricacao,Origem,Destino_Final,Peso_kg,Nivel_Toxico,Custo_Reciclagem_R$,Data_Descarte
-1,Impressora,2006,Urbana,Aterro Controlado,30.95,Alto,122.38,2022-03-30 20:08:03.221476512
-2,Bateria,2002,Urbana,Aterro Controlado,16.89,Alto,48.65,2021-07-14 10:37:51.140939584
-3,Geladeira,2016,Governamental,Cooperativa,32.82,Baixo,165.25,2015-12-30 03:42:16.912751676
-4,Impressora,2021,Governamental,Reciclagem Formal,19.33,Baixo,72.29,2022-07-12 14:20:08.053691264
-5,TV,1997,Industrial,Lixão,34.11,Baixo,72.79,2020-01-16 17:04:25.771812064
-6,Geladeira,1995,Rural,reciclagem formal,17.1,Médio,11.2,2016-06-02 19:00:24.161073824
-7,Geladeira,1997,Governamental,Lixão,13.11,Baixo,112.0,2022-03-30 20:08:03.221476512
-8,,1999,Urbana,Lixão,24.85,Alto,109.21,2023-08-05 16:35:26.174496640
-9,Computador,2009,,Reciclagem Formal,34.68,Alto,74.42,2020-04-03 12:43:29.395973152
-10,TV,2008,Governamental,,17.48,Baixo,179.37,2021-03-06 17:52:45.100671136
-11,celular,1997,Urbana,Lixão,46.84,Baixo,30.11,2023-03-28 23:50:20.134228192
-12,TV,1995,Urbana,Reciclagem Formal,2.06,Crítico,69.37,2022-01-12 00:28:59.597315424
-13,TV,1999,Rural,Lixão,20.96,Alto,67.71,2022-04-25 18:41:04.429530208
-14,Geladeira,2020,Industrial,Lixão,,Médio,23.0,2024-03-26 03:32:37.046979840
-7,Bateria,2017,Industrial,Lixão,,Crítico,98.82,2025-08-01 00:00:00.000000000
-16,TV,2008,Rural,Cooperativa,21.23,Baixo,139.12,2018-09-10 20:37:02.818791952
-17,Tablet,2001,Rural,Cooperativa,28.47,Baixo,,2015-01-26 22:33:01.208053691
-18,Geladeira,2021,Industrial,Cooperativa,28.84,Alto,35.61,2021-03-06 17:52:45.100671136
-19,Computador,2003,Industrial,,36.61,Baixo,78.57,2017-08-17 18:21:44.697986576
-20,Bateria,2009,Governamental,Aterro Controlado,6.47,Médio,5.51,2024-02-29 04:59:35.838926144
-21,Tablet,2009,urbano,Lixão,,Alto,174.32,2016-06-02 19:00:24.161073824
-22,,2020,Rural,Lixão,29.07,Baixo,21.48,2019-01-18 13:22:08.859060400
-23,Computador,2004,Governamental,Reciclagem Formal,43.37,Alto,121.47,2016-06-28 17:33:25.369127520
-24,Bateria,2022,Urbana,Lixão,28.14,Baixo,197.32,2021-04-01 16:25:46.308724832
-25,Geladeira,2007,Governamental,Cooperativa,12.01,Baixo,109.64,2018-05-30 02:24:57.986577184
-26,Celular,2013,Governamental,,34.02,Baixo,185.19,2019-02-13 11:55:10.067114096
-27,Bateria,2001,Urbana,Rio,37.02,Médio,51.04,2015-12-30 03:42:16.912751676
-28,Computador,2011,Rural,Lixão,11.99,Médio,153.19,2018-07-20 23:31:00.402684560
-29,Tablet,2014,Urbana,Cooperativa,18.95,Alto,108.6,2022-08-07 12:53:09.261744960
-15,Geladeira,1998,Governamental,Rio,,Baixo,145.5,2018-11-01 17:43:05.234899328
-31,Bateria,1999,Rural,Aterro Controlado,24.88,Baixo,17.16,2019-06-23 04:40:16.107382544
-32,Celular,2017,Governamental,Rio,19.54,Médio,33.81,2024-03-26 03:32:37.046979840
-33,Celular,2001,Urbana,Cooperativa,14.95,Baixo,30.96,2018-07-20 23:31:00.402684560
-34,,2007,Urbana,Rio,5.09,Médio,139.0,2024-07-07 21:44:41.879194624
-35,,2009,Governamental,Reciclagem Formal,2.77,Baixo,169.67,2016-06-02 19:00:24.161073824
-36,,2005,Industrial,Rio,47.93,Alto,151.18,2020-02-11 15:37:26.979865760
-37,Computador,1998,Industrial,Lixão,42.37,Baixo,10.94,2016-03-16 23:21:20.536912752
-38,Bateria,2007,Urbana,Lixão,17.81,Baixo,174.11,2024-04-21 02:05:38.255033536
-39,,2001,Urbana,Reciclagem Formal,47.84,Crítico,74.06,2021-04-01 16:25:46.308724832
-40,Impressora,2021,Industrial,Cooperativa,33.87,Médio,82.45,2019-03-11 10:28:11.275167776
-41,Tablet,2013,Industrial,Lixão,24.18,Baixo,25.45,2015-12-04 05:09:15.704697988
-42,Tablet,2016,Governamental,Aterro Controlado,24.7,Baixo,148.79,2015-07-27 12:24:09.664429530
-43,,2022,Governamental,Lixão,4.26,Crítico,40.55,2021-04-27 14:58:47.516778528
-44,Tablet,1996,Industrial,Lixão,4.68,Crítico,114.97,2018-09-10 20:37:02.818791952
-22,TV,2004,Governamental,Cooperativa,30.16,Médio,,2024-02-29 04:59:35.838926144
-46,Bateria,2007,Governamental,Rio,27.73,Crítico,22.39,2020-11-22 23:40:40.268456384
-47,Impressora,2019,Rural,,10.72,Alto,109.39,2021-06-18 12:04:49.932885888
-48,Bateria,2015,Governamental,Reciclagem Formal,47.32,Crítico,50.48,2022-10-24 08:32:12.885906048
-49,Celular,2000,Urbana,,39.09,Alto,,2015-07-01 13:51:08.456375838
-50,TV,2022,Governamental,,5.76,Médio,97.42,2017-05-31 22:42:41.073825504
-51,Geladeira,2022,Governamental,Cooperativa,46.55,Médio,74.25,2020-09-06 04:01:36.644295296
-52,TV,2006,Industrial,Aterro Controlado,48.71,Médio,131.52,2018-06-25 00:57:59.194630864
-53,Impressora,2006,Urbana,Rio,49.8,Médio,98.52,2022-04-25 18:41:04.429530208
-54,Geladeira,2014,Governamental,Rio,2.89,Médio,118.92,2024-04-21 02:05:38.255033536
-55,Celular,2005,Governamental,Rio,36.88,Alto,,2015-01-26 22:33:01.208053691
-56,Impressora,2020,,Aterro Controlado,,Alto,113.76,2024-06-11 23:11:40.671140928
-57,Computador,2017,Governamental,Rio,35.32,Médio,,2018-10-06 19:10:04.026845632
-58,Bateria,2022,Governamental,Aterro Controlado,48.44,Crítico,115.07,2022-06-16 15:47:06.845637568
-59,Celular,2019,Rural,Rio,34.43,Baixo,,2015-03-19 19:39:03.624161074
-30,Bateria,2001,Industrial,Reciclagem Formal,41.86,Médio,70.8,2018-10-06 19:10:04.026845632
-61,Tablet,1995,Governamental,Rio,43.36,Crítico,180.43,2025-04-19 05:47:55.167785216
-62,Computador,1995,Rural,Aterro Controlado,41.94,Baixo,123.47,2018-01-20 09:39:51.946308720
-63,,2019,Urbana,Lixão,21.36,Médio,52.65,2015-12-04 05:09:15.704697988
-64,Celular,2021,Industrial,Rio,11.21,Médio,,2021-09-04 07:43:53.557046976
-65,,2019,Urbana,Lixão,19.89,Alto,69.42,2018-05-04 03:51:56.778523488
-66,Geladeira,2014,,Reciclagem Formal,44.61,Baixo,187.07,2015-12-30 03:42:16.912751676
-67,Computador,2007,Rural,Cooperativa,7.42,Baixo,6.47,2017-10-08 15:27:47.114093952
-68,Bateria,2003,Governamental,Reciclagem Formal,,Crítico,48.94,2020-10-02 02:34:37.852348992
-69,Bateria,1997,Rural,Rio,11.74,Alto,76.24,2022-10-24 08:32:12.885906048
-70,Impressora,2001,Rural,Lixão,29.11,Alto,100.12,2018-09-10 20:37:02.818791952
-71,,2000,Rural,Lixão,43.17,Alto,170.91,2016-08-19 14:39:27.785234896
-72,Impressora,2002,Rural,Aterro Controlado,44.03,Alto,22.14,2023-09-26 13:41:28.590604032
-73,Bateria,2021,Industrial,Lixão,11.91,Baixo,,2017-11-03 14:00:48.322147648
-74,Geladeira,2003,Governamental,Aterro Controlado,45.39,Baixo,15.85,2015-12-30 03:42:16.912751676
-37,,1999,Urbana,Cooperativa,29.64,Médio,169.25,2018-02-15 08:12:53.154362416
-76,TV,1995,Urbana,Rio,,Médio,15.07,2019-07-19 03:13:17.315436240
-77,Tablet,2013,Governamental,Aterro Controlado,35.44,Alto,8.56,2021-04-01 16:25:46.308724832
-78,Celular,2004,Urbana,Cooperativa,24.14,Alto,140.91,2019-12-21 18:31:24.563758400
-79,Bateria,2006,,Lixão,18.96,Alto,199.46,2015-07-27 12:24:09.664429530
-80,Computador,2018,,Lixão,35.28,Médio,179.84,2021-03-06 17:52:45.100671136
-81,Bateria,2009,Rural,Cooperativa,,Crítico,,2024-02-03 06:26:34.630872480
-82,Computador,2021,Urbana,Lixão,16.58,Crítico,183.89,2024-08-02 20:17:43.087248320
-83,Tablet,2016,Governamental,Cooperativa,21.78,Médio,6.03,2019-05-28 06:07:14.899328864
-84,Tablet,2018,,Aterro Controlado,12.76,Médio,195.14,2024-10-19 15:56:46.711409408
-85,Tablet,2003,Governamental,,,Médio,100.7,2020-09-06 04:01:36.644295296
-86,Computador,2014,Governamental,Cooperativa,28.62,Médio,145.96,2024-08-02 20:17:43.087248320
-87,Bateria,2011,Governamental,Aterro Controlado,37.07,Médio,165.07,2017-04-10 01:36:38.657718120
-88,Tablet,2011,Industrial,Aterro Controlado,38.38,Médio,145.1,2023-08-31 15:08:27.382550336
-89,Geladeira,2020,Industrial,Aterro Controlado,41.16,Alto,109.33,2015-04-14 18:12:04.832214765
-45,Impressora,2014,,Reciclagem Formal,37.24,Alto,97.94,2017-11-03 14:00:48.322147648
-91,Computador,2006,Governamental,Rio,34.08,Alto,168.52,2016-12-01 08:51:32.617449664
-92,Computador,2001,Urbana,Lixão,11.95,Alto,44.99,2024-07-07 21:44:41.879194624
-93,Bateria,1996,Governamental,Reciclagem Formal,20.07,Médio,193.76,2020-01-16 17:04:25.771812064
-94,Computador,1997,Governamental,Aterro Controlado,23.94,Crítico,143.64,2015-10-13 08:03:13.288590604
-95,Computador,2011,Industrial,Cooperativa,4.24,Baixo,43.9,2017-04-10 01:36:38.657718120
-96,Tablet,1999,Industrial,Aterro Controlado,26.47,Médio,148.57,2018-05-04 03:51:56.778523488
-97,Bateria,2011,Rural,,21.87,Baixo,108.32,2019-05-02 07:34:13.691275168
-98,Tablet,2018,Industrial,Aterro Controlado,40.13,Crítico,142.91,2017-07-22 19:48:43.489932880
-99,Impressora,2011,,Cooperativa,48.9,Alto,154.72,2021-12-17 01:55:58.389261728
-100,Impressora,2021,Rural,Rio,27.84,Crítico,22.02,2022-04-25 18:41:04.429530208
-101,Tablet,2011,Rural,Aterro Controlado,16.2,Médio,103.69,2017-05-31 22:42:41.073825504
-102,Impressora,1996,Rural,Rio,2.27,Alto,186.74,2022-02-06 23:02:00.805369120
-103,Bateria,1996,Rural,,46.24,Médio,67.53,2024-03-26 03:32:37.046979840
-104,Celular,2022,Urbana,Lixão,45.96,Alto,,2015-01-01 00:00:00.000000000
-52,Tablet,2016,Industrial,Aterro Controlado,12.72,Baixo,77.0,2015-04-14 18:12:04.832214765
-106,Geladeira,2017,Rural,Rio,34.8,Baixo,93.58,2025-01-05 11:35:50.335570496
-107,Geladeira,1999,Governamental,Cooperativa,3.86,Baixo,111.98,2022-03-30 20:08:03.221476512
-108,Computador,1995,Industrial,Aterro Controlado,8.39,Crítico,112.04,2016-11-05 10:18:31.409395976
-109,,1995,Industrial,,,Médio,44.34,2024-08-28 18:50:44.295302016
-110,Geladeira,2013,,Lixão,14.8,Crítico,,2015-12-30 03:42:16.912751676
-111,Computador,1996,Urbana,Aterro Controlado,,Baixo,22.13,2021-04-27 14:58:47.516778528
-112,Celular,2015,Rural,Rio,34.88,Médio,,2017-11-29 12:33:49.530201344
-113,Bateria,2006,Urbana,Lixão,19.27,Baixo,5.53,2023-09-26 13:41:28.590604032
-114,Bateria,2020,Governamental,Rio,36.88,Crítico,,2019-05-28 06:07:14.899328864
-115,Bateria,2000,Industrial,Lixão,45.77,Crítico,97.27,2021-09-30 06:16:54.765100672
-116,Geladeira,2017,Governamental,Lixão,47.94,Crítico,123.19,2018-08-15 22:04:01.610738256
-117,Celular,1998,Urbana,Reciclagem Formal,2.99,Baixo,159.89,2021-09-30 06:16:54.765100672
-118,Geladeira,2017,Urbana,Lixão,19.79,Médio,25.81,2024-04-21 02:05:38.255033536
-119,Impressora,2005,Governamental,Cooperativa,5.43,Médio,170.89,2025-01-31 10:08:51.543624128
-60,Geladeira,2018,,Aterro Controlado,,Baixo,150.47,2016-12-27 07:24:33.825503352
-121,Celular,2021,Governamental,Aterro Controlado,8.57,Médio,84.66,2017-06-26 21:15:42.281879200
-122,Celular,2011,Industrial,Rio,32.38,Baixo,,2015-11-08 06:36:14.496644296
-123,Impressora,2000,,Lixão,19.47,Médio,198.23,2019-12-21 18:31:24.563758400
-124,Celular,2018,Industrial,Cooperativa,11.55,Alto,44.98,2021-01-13 20:46:42.684563744
-125,Celular,1999,Governamental,Rio,13.37,Alto,78.95,2016-12-01 08:51:32.617449664
-126,,2014,Urbana,,18.08,Crítico,185.66,2019-08-14 01:46:18.523489920
-127,Impressora,1996,Governamental,Rio,13.07,Alto,145.71,2018-02-15 08:12:53.154362416
-128,TV,2000,,Rio,22.72,Alto,14.38,2019-05-02 07:34:13.691275168
-129,TV,2016,Governamental,,1.71,Alto,157.4,2024-06-11 23:11:40.671140928
-130,Celular,2005,Governamental,Reciclagem Formal,14.06,Baixo,166.45,2016-12-01 08:51:32.617449664
-131,TV,2010,Rural,Rio,20.62,Alto,151.35,2016-12-01 08:51:32.617449664
-132,,2010,Urbana,Cooperativa,30.18,Alto,160.91,2022-08-07 12:53:09.261744960
-133,Celular,1995,Rural,,13.62,Crítico,165.9,2018-01-20 09:39:51.946308720
-134,TV,2003,Urbana,Aterro Controlado,6.75,Alto,41.35,2020-11-22 23:40:40.268456384
-67,Geladeira,2022,Rural,Reciclagem Formal,3.9,Alto,50.96,2017-01-22 05:57:35.033557048
-136,Computador,2021,,Reciclagem Formal,,Médio,,2020-04-03 12:43:29.395973152
-137,Impressora,2000,Governamental,Aterro Controlado,20.89,Crítico,182.03,2024-01-08 07:53:33.422818784
-138,Computador,2010,,Rio,29.1,Crítico,66.66,2021-06-18 12:04:49.932885888
-139,Celular,1997,Urbana,Reciclagem Formal,45.97,Crítico,119.72,2024-02-03 06:26:34.630872480
-140,Bateria,2014,Governamental,Cooperativa,4.23,Crítico,138.18,2023-07-10 18:02:24.966442944
-141,Impressora,2022,Urbana,Cooperativa,,Crítico,93.13,2016-11-05 10:18:31.409395976
-142,Celular,2021,Urbana,Lixão,27.62,Crítico,144.19,2023-07-10 18:02:24.966442944
-143,Bateria,1998,Rural,Reciclagem Formal,,Baixo,180.44,2023-03-03 01:17:18.926174496
-144,Computador,2013,Urbana,,20.62,Alto,126.7,2015-02-21 21:06:02.416107382
-145,Celular,2020,Industrial,Aterro Controlado,38.9,Crítico,110.26,2022-03-30 20:08:03.221476512
-146,,1997,Industrial,Aterro Controlado,24.07,Alto,90.56,2024-08-28 18:50:44.295302016
-147,Impressora,2013,,Rio,49.27,Alto,117.61,2019-05-02 07:34:13.691275168
-148,Tablet,2014,Urbana,Lixão,18.9,Baixo,74.3,2018-07-20 23:31:00.402684560
-149,Geladeira,2001,Governamental,Aterro Controlado,37.5,Crítico,81.34,2019-02-13 11:55:10.067114096
-75,TV,2014,Industrial,,19.71,Médio,108.71,2023-04-23 22:23:21.342281888
+ID_Registro,Tipo_Eletronico,Ano_Fabricacao,Origem,Destino_Final,Peso_kg,Nivel_Toxico,Custo_Reciclagem_R$,Municipio,Educacao_Ambiental,Data_Descarte
+1,Impressora,2006,Urbana,Aterro Controlado,30.95,Alto,122.38,Marabá,Não,2022-09-02 11:26:10.469798656
+2,Bateria,2002,Urbana,Aterro Controlado,16.89,Alto,48.65,Novo Progresso,Sim,2023-03-03 01:17:18.926174496
+3,Geladeira,2016,Governamental,Cooperativa,32.82,Baixo,165.25,Tucuruí,Sim,2021-08-09 09:10:52.348993280
+4,Impressora,2021,Governamental,Reciclagem Formal,19.33,Baixo,72.29,Cametá,Não,2018-04-08 05:18:55.570469792
+5,TV,1997,Industrial,Lixão,34.11,Baixo,72.79,Ananindeua,Não,2021-12-17 01:55:58.389261728
+6,Geladeira,1995,Rural,reciclagem formal,17.1,Médio,11.2,Ananindeua,Sim,2018-11-01 17:43:05.234899328
+7,Geladeira,1997,Governamental,Lixão,13.11,Baixo,112.0,Belém,Sim,2018-08-15 22:04:01.610738256
+8,,1999,Urbana,Lixão,24.85,Alto,109.21,Soure,Não,2025-02-26 08:41:52.751677824
+9,Computador,2009,,Reciclagem Formal,34.68,Alto,74.42,Cametá,Sim,2015-11-08 06:36:14.496644296
+10,TV,2008,Governamental,,17.48,Baixo,179.37,Itaituba,Não,2023-01-10 04:11:16.510067104
+11,celular,1997,Urbana,Lixão,46.84,Baixo,30.11,Belém,Sim,2023-09-26 13:41:28.590604032
+12,TV,1995,Urbana,Reciclagem Formal,2.06,Crítico,69.37,Dom Eliseu,Não,2022-06-16 15:47:06.845637568
+13,TV,1999,Rural,Lixão,20.96,Alto,67.71,Capanema,Não,2025-05-15 04:20:56.375838912
+14,Geladeira,2020,Industrial,Lixão,,Médio,23.0,Ananindeua,Sim,2025-03-24 07:14:53.959731520
+7,Bateria,2017,Industrial,Lixão,,Crítico,98.82,Ananindeua,Sim,2023-06-14 19:29:23.758389248
+16,TV,2008,Rural,Cooperativa,21.23,Baixo,139.12,Ananindeua,Não,2019-05-28 06:07:14.899328864
+17,Tablet,2001,Rural,Cooperativa,28.47,Baixo,,Santarém,Sim,2016-04-11 21:54:21.744966440
+18,Geladeira,2021,Industrial,Cooperativa,28.84,Alto,35.61,Castanhal,Sim,2021-06-18 12:04:49.932885888
+19,Computador,2003,Industrial,,36.61,Baixo,78.57,Parauapebas,Sim,2019-01-18 13:22:08.859060400
+20,Bateria,2009,Governamental,Aterro Controlado,6.47,Médio,5.51,Santarém,Sim,2021-04-27 14:58:47.516778528
+21,Tablet,2009,urbano,Lixão,,Alto,174.32,Cametá,Não,2023-03-28 23:50:20.134228192
+22,,2020,Rural,Lixão,29.07,Baixo,21.48,Ananindeua,Sim,2019-05-02 07:34:13.691275168
+23,Computador,2004,Governamental,Reciclagem Formal,43.37,Alto,121.47,Santarém,Sim,2016-07-24 16:06:26.577181208
+24,Bateria,2022,Urbana,Lixão,28.14,Baixo,197.32,Marabá,Sim,2023-12-13 09:20:32.214765088
+25,Geladeira,2007,Governamental,Cooperativa,12.01,Baixo,109.64,Parauapebas,Sim,2024-08-28 18:50:44.295302016
+26,Celular,2013,Governamental,,34.02,Baixo,185.19,Tailândia,Sim,2024-11-14 14:29:47.919463104
+27,Bateria,2001,Urbana,Rio,37.02,Médio,51.04,Ananindeua,Sim,2024-02-03 06:26:34.630872480
+28,Computador,2011,Rural,Lixão,11.99,Médio,153.19,Castanhal,Sim,2019-01-18 13:22:08.859060400
+29,Tablet,2014,Urbana,Cooperativa,18.95,Alto,108.6,Cametá,Não,2023-08-05 16:35:26.174496640
+15,Geladeira,1998,Governamental,Rio,,Baixo,145.5,Belém,Sim,2015-01-01 00:00:00.000000000
+31,Bateria,1999,Rural,Aterro Controlado,24.88,Baixo,17.16,Cametá,Sim,2017-05-06 00:09:39.865771808
+32,Celular,2017,Governamental,Rio,19.54,Médio,33.81,Ananindeua,Sim,2021-09-30 06:16:54.765100672
+33,Celular,2001,Urbana,Cooperativa,14.95,Baixo,30.96,Belém,Não,2023-11-17 10:47:31.006711392
+34,,2007,Urbana,Rio,5.09,Médio,139.0,Novo Progresso,Não,2023-04-23 22:23:21.342281888
+35,,2009,Governamental,Reciclagem Formal,2.77,Baixo,169.67,Dom Eliseu,Sim,2018-05-04 03:51:56.778523488
+36,,2005,Industrial,Rio,47.93,Alto,151.18,Breves,Não,2021-04-01 16:25:46.308724832
+37,Computador,1998,Industrial,Lixão,42.37,Baixo,10.94,Santarém,Não,2023-03-28 23:50:20.134228192
+38,Bateria,2007,Urbana,Lixão,17.81,Baixo,174.11,Belém,Sim,2024-02-03 06:26:34.630872480
+39,,2001,Urbana,Reciclagem Formal,47.84,Crítico,74.06,Bragança,Não,2016-01-25 02:15:18.120805368
+40,Impressora,2021,Industrial,Cooperativa,33.87,Médio,82.45,Parauapebas,Sim,2019-10-30 21:25:22.147651008
+41,Tablet,2013,Industrial,Lixão,24.18,Baixo,25.45,Belém,Sim,2016-06-28 17:33:25.369127520
+42,Tablet,2016,Governamental,Aterro Controlado,24.7,Baixo,148.79,Castanhal,Não,2021-07-14 10:37:51.140939584
+43,,2022,Governamental,Lixão,4.26,Crítico,40.55,Belém,Não,2020-04-29 11:16:30.604026848
+44,Tablet,1996,Industrial,Lixão,4.68,Crítico,114.97,Capitão Poço,Não,2025-02-26 08:41:52.751677824
+22,TV,2004,Governamental,Cooperativa,30.16,Médio,,Santarém,Sim,2021-01-13 20:46:42.684563744
+46,Bateria,2007,Governamental,Rio,27.73,Crítico,22.39,Altamira,Sim,2016-12-27 07:24:33.825503352
+47,Impressora,2019,Rural,,10.72,Alto,109.39,Santarém,Não,2019-10-30 21:25:22.147651008
+48,Bateria,2015,Governamental,Reciclagem Formal,47.32,Crítico,50.48,Castanhal,Não,2018-04-08 05:18:55.570469792
+49,Celular,2000,Urbana,,39.09,Alto,,Abaetetuba,Não,2021-08-09 09:10:52.348993280
+50,TV,2022,Governamental,,5.76,Médio,97.42,Ananindeua,Não,2025-02-26 08:41:52.751677824
+51,Geladeira,2022,Governamental,Cooperativa,46.55,Médio,74.25,Dom Eliseu,Não,2020-12-18 22:13:41.476510080
+52,TV,2006,Industrial,Aterro Controlado,48.71,Médio,131.52,Tailândia,Sim,2017-09-12 16:54:45.906040272
+53,Impressora,2006,Urbana,Rio,49.8,Médio,98.52,Monte Alegre,Sim,2022-01-12 00:28:59.597315424
+54,Geladeira,2014,Governamental,Rio,2.89,Médio,118.92,Alenquer,Não,2017-04-10 01:36:38.657718120
+55,Celular,2005,Governamental,Rio,36.88,Alto,,Cametá,Não,2022-02-06 23:02:00.805369120
+56,Impressora,2020,,Aterro Controlado,,Alto,113.76,Mocajuba,Sim,2016-07-24 16:06:26.577181208
+57,Computador,2017,Governamental,Rio,35.32,Médio,,Belém,Sim,2015-08-22 10:57:10.872483220
+58,Bateria,2022,Governamental,Aterro Controlado,48.44,Crítico,115.07,Ananindeua,Sim,2019-10-30 21:25:22.147651008
+59,Celular,2019,Rural,Rio,34.43,Baixo,,Belém,Sim,2022-01-12 00:28:59.597315424
+30,Bateria,2001,Industrial,Reciclagem Formal,41.86,Médio,70.8,Marabá,Sim,2017-05-06 00:09:39.865771808
+61,Tablet,1995,Governamental,Rio,43.36,Crítico,180.43,Marabá,Sim,2024-09-23 17:23:45.503355712
+62,Computador,1995,Rural,Aterro Controlado,41.94,Baixo,123.47,Santarém,Sim,2025-05-15 04:20:56.375838912
+63,,2019,Urbana,Lixão,21.36,Médio,52.65,Capanema,Não,2021-09-30 06:16:54.765100672
+64,Celular,2021,Industrial,Rio,11.21,Médio,,Marabá,Sim,2015-01-01 00:00:00.000000000
+65,,2019,Urbana,Lixão,19.89,Alto,69.42,Santarém,Sim,2019-10-30 21:25:22.147651008
+66,Geladeira,2014,,Reciclagem Formal,44.61,Baixo,187.07,Abaetetuba,Sim,2015-03-19 19:39:03.624161074
+67,Computador,2007,Rural,Cooperativa,7.42,Baixo,6.47,Ananindeua,Sim,2016-01-25 02:15:18.120805368
+68,Bateria,2003,Governamental,Reciclagem Formal,,Crítico,48.94,Barcarena,Não,2016-08-19 14:39:27.785234896
+69,Bateria,1997,Rural,Rio,11.74,Alto,76.24,Belém,Sim,2020-08-11 05:28:35.436241600
+70,Impressora,2001,Rural,Lixão,29.11,Alto,100.12,Xinguara,Não,2015-01-26 22:33:01.208053691
+71,,2000,Rural,Lixão,43.17,Alto,170.91,Tailândia,Não,2024-01-08 07:53:33.422818784
+72,Impressora,2002,Rural,Aterro Controlado,44.03,Alto,22.14,Ananindeua,Sim,2020-11-22 23:40:40.268456384
+73,Bateria,2021,Industrial,Lixão,11.91,Baixo,,Belém,Sim,2024-11-14 14:29:47.919463104
+74,Geladeira,2003,Governamental,Aterro Controlado,45.39,Baixo,15.85,Breves,Sim,2023-09-26 13:41:28.590604032
+37,,1999,Urbana,Cooperativa,29.64,Médio,169.25,Itaituba,Sim,2017-04-10 01:36:38.657718120
+76,TV,1995,Urbana,Rio,,Médio,15.07,Tucuruí,Sim,2022-02-06 23:02:00.805369120
+77,Tablet,2013,Governamental,Aterro Controlado,35.44,Alto,8.56,Tailândia,Não,2015-10-13 08:03:13.288590604
+78,Celular,2004,Urbana,Cooperativa,24.14,Alto,140.91,Belém,Sim,2019-09-09 00:19:19.731543616
+79,Bateria,2006,,Lixão,18.96,Alto,199.46,Marabá,Não,2019-07-19 03:13:17.315436240
+80,Computador,2018,,Lixão,35.28,Médio,179.84,Belém,Sim,2020-03-08 14:10:28.187919456
+81,Bateria,2009,Rural,Cooperativa,,Crítico,,Soure,Não,2017-12-25 11:06:50.738255040
+82,Computador,2021,Urbana,Lixão,16.58,Crítico,183.89,Cametá,Não,2018-01-20 09:39:51.946308720
+83,Tablet,2016,Governamental,Cooperativa,21.78,Médio,6.03,Marabá,Sim,2016-12-27 07:24:33.825503352
+84,Tablet,2018,,Aterro Controlado,12.76,Médio,195.14,Belém,Sim,2024-12-10 13:02:49.127516800
+85,Tablet,2003,Governamental,,,Médio,100.7,Santarém,Sim,2015-10-13 08:03:13.288590604
+86,Computador,2014,Governamental,Cooperativa,28.62,Médio,145.96,Marabá,Não,2021-09-04 07:43:53.557046976
+87,Bateria,2011,Governamental,Aterro Controlado,37.07,Médio,165.07,Tucuruí,Sim,2018-03-13 06:45:54.362416112
+88,Tablet,2011,Industrial,Aterro Controlado,38.38,Médio,145.1,Altamira,Sim,2024-02-29 04:59:35.838926144
+89,Geladeira,2020,Industrial,Aterro Controlado,41.16,Alto,109.33,Alenquer,Não,2017-05-31 22:42:41.073825504
+45,Impressora,2014,,Reciclagem Formal,37.24,Alto,97.94,Castanhal,Sim,2020-09-06 04:01:36.644295296
+91,Computador,2006,Governamental,Rio,34.08,Alto,168.52,Belém,Não,2021-04-27 14:58:47.516778528
+92,Computador,2001,Urbana,Lixão,11.95,Alto,44.99,Itaituba,Não,2015-07-01 13:51:08.456375838
+93,Bateria,1996,Governamental,Reciclagem Formal,20.07,Médio,193.76,Redenção,Não,2021-07-14 10:37:51.140939584
+94,Computador,1997,Governamental,Aterro Controlado,23.94,Crítico,143.64,Abaetetuba,Sim,2021-04-27 14:58:47.516778528
+95,Computador,2011,Industrial,Cooperativa,4.24,Baixo,43.9,Tailândia,Sim,2023-02-05 02:44:17.718120800
+96,Tablet,1999,Industrial,Aterro Controlado,26.47,Médio,148.57,Castanhal,Não,2022-05-21 17:14:05.637583904
+97,Bateria,2011,Rural,,21.87,Baixo,108.32,Castanhal,Sim,2024-07-07 21:44:41.879194624
+98,Tablet,2018,Industrial,Aterro Controlado,40.13,Crítico,142.91,Parauapebas,Não,2019-01-18 13:22:08.859060400
+99,Impressora,2011,,Cooperativa,48.9,Alto,154.72,Belém,Não,2023-01-10 04:11:16.510067104
+100,Impressora,2021,Rural,Rio,27.84,Crítico,22.02,Belém,Não,2020-04-03 12:43:29.395973152
+101,Tablet,2011,Rural,Aterro Controlado,16.2,Médio,103.69,Belém,Sim,2023-06-14 19:29:23.758389248
+102,Impressora,1996,Rural,Rio,2.27,Alto,186.74,Altamira,Sim,2016-06-02 19:00:24.161073824
+103,Bateria,1996,Rural,,46.24,Médio,67.53,Santarém,Não,2024-09-23 17:23:45.503355712
+104,Celular,2022,Urbana,Lixão,45.96,Alto,,Castanhal,Sim,2022-02-06 23:02:00.805369120
+52,Tablet,2016,Industrial,Aterro Controlado,12.72,Baixo,77.0,Capitão Poço,Sim,2021-12-17 01:55:58.389261728
+106,Geladeira,2017,Rural,Rio,34.8,Baixo,93.58,Santarém,Sim,2017-06-26 21:15:42.281879200
+107,Geladeira,1999,Governamental,Cooperativa,3.86,Baixo,111.98,Parauapebas,Não,2021-09-30 06:16:54.765100672
+108,Computador,1995,Industrial,Aterro Controlado,8.39,Crítico,112.04,Redenção,Não,2017-07-22 19:48:43.489932880
+109,,1995,Industrial,,,Médio,44.34,Ananindeua,Sim,2015-10-13 08:03:13.288590604
+110,Geladeira,2013,,Lixão,14.8,Crítico,,Belém,Sim,2022-12-15 05:38:15.302013408
+111,Computador,1996,Urbana,Aterro Controlado,,Baixo,22.13,Santarém,Sim,2015-11-08 06:36:14.496644296
+112,Celular,2015,Rural,Rio,34.88,Médio,,Ananindeua,Não,2016-07-24 16:06:26.577181208
+113,Bateria,2006,Urbana,Lixão,19.27,Baixo,5.53,Monte Alegre,Sim,2021-12-17 01:55:58.389261728
+114,Bateria,2020,Governamental,Rio,36.88,Crítico,,Breves,Não,2022-05-21 17:14:05.637583904
+115,Bateria,2000,Industrial,Lixão,45.77,Crítico,97.27,Altamira,Não,2017-01-22 05:57:35.033557048
+116,Geladeira,2017,Governamental,Lixão,47.94,Crítico,123.19,Oriximiná,Não,2016-02-20 00:48:19.328859060
+117,Celular,1998,Urbana,Reciclagem Formal,2.99,Baixo,159.89,Barcarena,Sim,2022-12-15 05:38:15.302013408
+118,Geladeira,2017,Urbana,Lixão,19.79,Médio,25.81,Ananindeua,Sim,2019-05-02 07:34:13.691275168
+119,Impressora,2005,Governamental,Cooperativa,5.43,Médio,170.89,Alenquer,Sim,2020-11-22 23:40:40.268456384
+60,Geladeira,2018,,Aterro Controlado,,Baixo,150.47,Abaetetuba,Sim,2022-11-19 07:05:14.093959744
+121,Celular,2021,Governamental,Aterro Controlado,8.57,Médio,84.66,Barcarena,Não,2021-01-13 20:46:42.684563744
+122,Celular,2011,Industrial,Rio,32.38,Baixo,,Alenquer,Não,2024-12-10 13:02:49.127516800
+123,Impressora,2000,,Lixão,19.47,Médio,198.23,Marabá,Não,2016-04-11 21:54:21.744966440
+124,Celular,2018,Industrial,Cooperativa,11.55,Alto,44.98,Belém,Não,2022-01-12 00:28:59.597315424
+125,Celular,1999,Governamental,Rio,13.37,Alto,78.95,Ananindeua,Sim,2024-11-14 14:29:47.919463104
+126,,2014,Urbana,,18.08,Crítico,185.66,Parauapebas,Sim,2025-05-15 04:20:56.375838912
+127,Impressora,1996,Governamental,Rio,13.07,Alto,145.71,Breves,Não,2020-04-29 11:16:30.604026848
+128,TV,2000,,Rio,22.72,Alto,14.38,Soure,Não,2015-07-27 12:24:09.664429530
+129,TV,2016,Governamental,,1.71,Alto,157.4,Belém,Sim,2016-12-01 08:51:32.617449664
+130,Celular,2005,Governamental,Reciclagem Formal,14.06,Baixo,166.45,Castanhal,Não,2024-01-08 07:53:33.422818784
+131,TV,2010,Rural,Rio,20.62,Alto,151.35,Parauapebas,Não,2018-08-15 22:04:01.610738256
+132,,2010,Urbana,Cooperativa,30.18,Alto,160.91,Ananindeua,Sim,2020-10-28 01:07:39.060402688
+133,Celular,1995,Rural,,13.62,Crítico,165.9,Belém,Sim,2022-10-24 08:32:12.885906048
+134,TV,2003,Urbana,Aterro Controlado,6.75,Alto,41.35,Marabá,Sim,2025-02-26 08:41:52.751677824
+67,Geladeira,2022,Rural,Reciclagem Formal,3.9,Alto,50.96,Novo Progresso,Não,2023-03-28 23:50:20.134228192
+136,Computador,2021,,Reciclagem Formal,,Médio,,Marabá,Sim,2019-10-30 21:25:22.147651008
+137,Impressora,2000,Governamental,Aterro Controlado,20.89,Crítico,182.03,Castanhal,Sim,2021-12-17 01:55:58.389261728
+138,Computador,2010,,Rio,29.1,Crítico,66.66,Itaituba,Não,2024-11-14 14:29:47.919463104
+139,Celular,1997,Urbana,Reciclagem Formal,45.97,Crítico,119.72,Marabá,Sim,2016-09-14 13:12:28.993288592
+140,Bateria,2014,Governamental,Cooperativa,4.23,Crítico,138.18,Igarapé-Miri,Não,2023-08-31 15:08:27.382550336
+141,Impressora,2022,Urbana,Cooperativa,,Crítico,93.13,Dom Eliseu,Sim,2018-09-10 20:37:02.818791952
+142,Celular,2021,Urbana,Lixão,27.62,Crítico,144.19,Santarém,Sim,2025-02-26 08:41:52.751677824
+143,Bateria,1998,Rural,Reciclagem Formal,,Baixo,180.44,Castanhal,Não,2018-12-23 14:49:07.651006704
+144,Computador,2013,Urbana,,20.62,Alto,126.7,Santarém,Sim,2017-09-12 16:54:45.906040272
+145,Celular,2020,Industrial,Aterro Controlado,38.9,Crítico,110.26,Santarém,Sim,2022-09-02 11:26:10.469798656
+146,,1997,Industrial,Aterro Controlado,24.07,Alto,90.56,Belém,Sim,2017-11-29 12:33:49.530201344
+147,Impressora,2013,,Rio,49.27,Alto,117.61,Cametá,Não,2025-01-05 11:35:50.335570496
+148,Tablet,2014,Urbana,Lixão,18.9,Baixo,74.3,Castanhal,Sim,2023-08-05 16:35:26.174496640
+149,Geladeira,2001,Governamental,Aterro Controlado,37.5,Crítico,81.34,Belém,Sim,2024-05-17 00:38:39.463087232
+75,TV,2014,Industrial,,19.71,Médio,108.71,Santarém,Sim,2020-04-03 12:43:29.395973152
