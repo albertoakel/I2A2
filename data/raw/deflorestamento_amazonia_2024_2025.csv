@@ -1,0 +1,109 @@
+data,ano,mes,estado,municipio,bioma,area_desmatada_ha,focos_queimada,chuva_mm,temp_media_c,protecao,fiscalizacao,ilegal
+2024-01-01,2024,1,PA,Santarém,Amazônia,374.4,94,260.4,27.8,UC,Insuficiente,Sim
+2024-02-01,2024,2,PA,Santarém,Amazônia,366.8,82,277.7,27.3,UC,Insuficiente,Não
+2024-03-01,2024,3,PA,Santarém,Amazônia,296.6,77,,27.5,UC,Insuficiente,Não
+2024-04-01,2024,4,PA,Santarém,Amazônia,335.0,113,271.5,27.5,UC,Moderada,Sim
+2024-05-01,2024,5,PA,Santarém,Amazônia,336.0,81,258.1,,UC,Insuficiente,Sim
+2024-06-01,2024,6,PA,Santarém,Amazônia,475.0,124,163.3,28.3,TI,Moderada,Sim
+2024-07-01,2024,7,PA,Santarém,Amazônia,508.8,136,160.1,27.9,TI,Insuficiente,Não
+2024-08-01,2024,8,PA,Santarém,Amazônia,435.9,126,144.3,28.0,Sem Proteção,Insuficiente,Não
+2024-09-01,2024,9,PA,Santarém,Amazônia,459.3,147,166.7,28.2,Sem Proteção,Insuficiente,Sim
+2024-10-01,2024,10,PA,Santarém,Amazônia,430.2,135,174.0,27.9,UC,Moderada,Não
+2024-11-01,2024,11,PA,Santarém,Amazônia,480.5,141,172.6,27.8,Sem Proteção,Moderada,Não
+2024-12-01,2024,12,PA,Santarém,Amazônia,475.0,84,248.7,27.4,UC,Insuficiente,Não
+2025-01-01,2025,1,PA,Santarém,Amazônia,360.2,85,,27.5,TI,Moderada,Sim
+2025-02-01,2025,2,PA,Santarém,Amazônia,349.6,93,256.1,27.7,Sem Proteção,Intensiva,Sim
+2025-03-01,2025,3,PA,Santarém,Amazônia,360.4,80,277.0,27.3,UC,Moderada,Não
+2025-04-01,2025,4,PA,Santarém,Amazônia,264.1,84,267.7,27.3,UC,Intensiva,Sim
+2025-05-01,2025,5,PA,Santarém,Amazônia,423.0,90,265.1,27.4,Sem Proteção,Insuficiente,Sim
+2025-06-01,2025,6,PA,Santarém,Amazônia,445.5,138,142.6,27.9,TI,Insuficiente,Sim
+2024-01-01,2024,1,AM,Lábrea,Amazônia,214.3,59,329.5,27.3,Sem Proteção,Insuficiente,Não
+2024-02-01,2024,2,AM,Lábrea,Amazônia,193.9,51,336.6,27.9,TI,Moderada,Não
+2024-03-01,2024,3,AM,Lábrea,Amazônia,186.3,60,316.5,27.5,Sem Proteção,Insuficiente,Sim
+2024-04-01,2024,4,AM,Lábrea,Amazônia,243.7,65,306.7,27.4,TI,Intensiva,Sim
+2024-05-01,2024,5,AM,Lábrea,Amazônia,193.6,68,320.2,27.3,Sem Proteção,Moderada,Sim
+2024-06-01,2024,6,AM,Lábrea,Amazônia,287.6,79,191.9,28.5,UC,Moderada,Não
+2024-07-01,2024,7,AM,Lábrea,Amazônia,307.8,86,200.2,28.3,UC,Intensiva,Não
+2024-08-01,2024,8,AM,Lábrea,Amazônia,305.1,104,176.7,28.5,UC,Moderada,Sim
+2024-09-01,2024,9,AM,Lábrea,Amazônia,339.6,103,182.7,28.3,Sem Proteção,Moderada,Sim
+2024-10-01,2024,10,AM,Lábrea,Amazônia,,102,183.4,28.1,TI,Moderada,Não
+2024-11-01,2024,11,AM,Lábrea,Amazônia,289.7,100,235.8,28.0,UC,Insuficiente,Não
+2024-12-01,2024,12,AM,Lábrea,Amazônia,216.7,55,336.1,27.8,TI,Intensiva,Sim
+2025-01-01,2025,1,AM,Lábrea,Amazônia,228.5,61,306.3,27.7,TI,Insuficiente,Não
+2025-02-01,2025,2,AM,Lábrea,Amazônia,258.0,68,325.8,27.9,Sem Proteção,Moderada,Sim
+2025-03-01,2025,3,AM,Lábrea,Amazônia,239.0,65,332.7,28.6,Sem Proteção,Moderada,Não
+2025-04-01,2025,4,AM,Lábrea,Amazônia,229.1,48,327.6,27.2,UC,Moderada,Sim
+2025-05-01,2025,5,AM,Lábrea,Amazônia,,66,297.0,27.2,UC,Insuficiente,Não
+2025-06-01,2025,6,AM,Lábrea,Amazônia,267.7,109,190.0,28.2,UC,Moderada,Sim
+2024-01-01,2024,1,RO,Porto Velho,Amazônia,256.6,93,240.2,27.9,Sem Proteção,Intensiva,Sim
+2024-02-01,2024,2,RO,Porto Velho,Amazônia,291.7,67,240.6,27.3,UC,Insuficiente,Não
+2024-03-01,2024,3,RO,Porto Velho,Amazônia,272.7,59,263.0,27.6,UC,Insuficiente,Não
+2024-04-01,2024,4,RO,Porto Velho,Amazônia,288.1,75,269.0,28.1,Sem Proteção,Insuficiente,Sim
+2024-05-01,2024,5,RO,Porto Velho,Amazônia,299.3,76,239.4,27.9,Sem Proteção,Insuficiente,Sim
+2024-06-01,2024,6,RO,Porto Velho,Amazônia,299.7,92,148.4,28.0,Sem Proteção,Moderada,Sim
+2024-07-01,2024,7,RO,Porto Velho,Amazônia,395.4,124,128.5,28.3,Sem Proteção,Insuficiente,Sim
+2024-08-01,2024,8,RO,Porto Velho,Amazônia,337.9,118,150.9,28.3,Sem Proteção,Insuficiente,Sim
+2024-09-01,2024,9,RO,Porto Velho,Amazônia,419.7,110,120.7,28.4,Sem Proteção,Intensiva,Sim
+2024-10-01,2024,10,RO,Porto Velho,Amazônia,328.0,121,153.1,28.2,UC,Moderada,Sim
+2024-11-01,2024,11,RO,Porto Velho,Amazônia,357.5,121,139.6,28.4,Sem Proteção,Moderada,Sim
+2024-12-01,2024,12,RO,Porto Velho,Amazônia,274.3,54,239.3,27.4,Sem Proteção,Insuficiente,Não
+2025-01-01,2025,1,RO,Porto Velho,Amazônia,247.4,80,266.5,27.9,UC,Intensiva,Não
+2025-02-01,2025,2,RO,Porto Velho,Amazônia,236.7,69,264.2,27.9,UC,Intensiva,Sim
+2025-03-01,2025,3,RO,Porto Velho,Amazônia,266.3,72,248.0,27.8,Sem Proteção,Moderada,Sim
+2025-04-01,2025,4,RO,Porto Velho,Amazônia,297.2,79,232.1,27.9,Sem Proteção,Insuficiente,Sim
+2025-05-01,2025,5,RO,Porto Velho,Amazônia,257.7,81,239.8,27.7,Sem Proteção,Insuficiente,Sim
+2025-06-01,2025,6,RO,Porto Velho,Amazônia,366.5,108,170.4,28.4,Sem Proteção,Moderada,Sim
+2024-01-01,2024,1,MT,Colniza,Amazônia,272.3,76,191.4,28.2,Sem Proteção,Moderada,Sim
+2024-02-01,2024,2,MT,Colniza,Amazônia,312.4,77,212.4,28.3,UC,Insuficiente,Não
+2024-03-01,2024,3,MT,Colniza,Amazônia,341.2,82,235.5,28.4,TI,Intensiva,Sim
+2024-04-01,2024,4,MT,Colniza,Amazônia,325.4,88,227.3,28.3,Sem Proteção,Moderada,Não
+2024-05-01,2024,5,MT,Colniza,Amazônia,398.4,92,201.0,28.3,UC,Insuficiente,Não
+2024-06-01,2024,6,MT,Colniza,Amazônia,433.1,116,142.1,29.1,UC,Insuficiente,Não
+2024-07-01,2024,7,MT,Colniza,Amazônia,410.4,134,129.8,29.4,TI,Moderada,Não
+2024-08-01,2024,8,MT,Colniza,Amazônia,463.0,138,149.6,28.9,Sem Proteção,Insuficiente,Sim
+2024-09-01,2024,9,MT,Colniza,Amazônia,478.3,114,120.5,29.2,Sem Proteção,Moderada,Não
+2024-10-01,2024,10,MT,Colniza,Amazônia,351.2,130,,28.9,Sem Proteção,Moderada,Não
+2024-11-01,2024,11,MT,Colniza,Amazônia,437.2,126,128.2,29.1,Sem Proteção,Insuficiente,Não
+2024-12-01,2024,12,MT,Colniza,Amazônia,275.1,94,220.5,28.7,Sem Proteção,Insuficiente,Não
+2025-01-01,2025,1,MT,Colniza,Amazônia,377.3,95,214.2,28.3,Sem Proteção,Moderada,Não
+2025-02-01,2025,2,MT,Colniza,Amazônia,287.3,98,208.5,28.5,TI,Insuficiente,Sim
+2025-03-01,2025,3,MT,Colniza,Amazônia,360.0,72,186.1,27.8,Sem Proteção,Insuficiente,Sim
+2025-04-01,2025,4,MT,Colniza,Amazônia,306.0,93,232.5,28.4,Sem Proteção,Insuficiente,Não
+2025-05-01,2025,5,MT,Colniza,Amazônia,263.4,87,211.7,28.3,Sem Proteção,Insuficiente,Sim
+2025-06-01,2025,6,MT,Colniza,Amazônia,432.7,120,126.4,,TI,Intensiva,Não
+2024-01-01,2024,1,AC,Rio Branco,Amazônia,169.5,50,295.1,27.0,UC,Insuficiente,Sim
+2024-02-01,2024,2,AC,Rio Branco,Amazônia,153.8,56,284.6,26.6,Sem Proteção,Insuficiente,Não
+2024-03-01,2024,3,AC,Rio Branco,Amazônia,179.5,54,290.7,27.1,Sem Proteção,Moderada,Sim
+2024-04-01,2024,4,AC,Rio Branco,Amazônia,184.8,79,269.1,27.1,TI,Insuficiente,Não
+2024-05-01,2024,5,AC,Rio Branco,Amazônia,224.2,86,292.2,27.5,UC,Insuficiente,Não
+2024-06-01,2024,6,AC,Rio Branco,Amazônia,247.6,85,158.9,27.8,UC,Insuficiente,Sim
+2024-07-01,2024,7,AC,Rio Branco,Amazônia,335.0,87,185.7,28.2,UC,Moderada,Não
+2024-08-01,2024,8,AC,Rio Branco,Amazônia,260.6,83,196.2,27.6,TI,Moderada,Não
+2024-09-01,2024,9,AC,Rio Branco,Amazônia,227.1,80,180.9,27.7,UC,Insuficiente,Sim
+2024-10-01,2024,10,AC,Rio Branco,Amazônia,188.4,91,182.8,27.8,Sem Proteção,Moderada,Sim
+2024-11-01,2024,11,AC,Rio Branco,Amazônia,293.5,88,157.8,28.0,TI,Insuficiente,Não
+2024-12-01,2024,12,AC,Rio Branco,Amazônia,184.2,58,272.5,26.5,UC,Insuficiente,Não
+2025-01-01,2025,1,AC,Rio Branco,Amazônia,226.4,55,262.6,26.9,TI,Insuficiente,Sim
+2025-02-01,2025,2,AC,Rio Branco,Amazônia,182.9,67,298.9,27.4,TI,Moderada,Não
+2025-03-01,2025,3,AC,Rio Branco,Amazônia,224.2,59,284.5,27.0,Sem Proteção,Insuficiente,Sim
+2025-04-01,2025,4,AC,Rio Branco,Amazônia,221.1,54,311.2,27.2,Sem Proteção,Insuficiente,Sim
+2025-05-01,2025,5,AC,Rio Branco,Amazônia,217.8,58,281.2,27.7,TI,Intensiva,Não
+2025-06-01,2025,6,AC,Rio Branco,Amazônia,267.2,80,192.0,27.2,UC,Moderada,Não
+2024-01-01,2024,1,RR,Rorainópolis,Amazônia,181.4,56,196.7,27.8,Sem Proteção,Moderada,Sim
+2024-02-01,2024,2,RR,Rorainópolis,Amazônia,175.8,39,208.5,28.3,Sem Proteção,Moderada,Sim
+2024-03-01,2024,3,RR,Rorainópolis,Amazônia,176.4,43,203.7,28.2,TI,Moderada,Sim
+2024-04-01,2024,4,RR,Rorainópolis,Amazônia,222.8,44,206.0,28.6,Sem Proteção,Insuficiente,Não
+2024-05-01,2024,5,RR,Rorainópolis,Amazônia,160.6,43,185.3,28.5,TI,Moderada,Não
+2024-06-01,2024,6,RR,Rorainópolis,Amazônia,278.5,58,135.1,29.1,TI,Insuficiente,Não
+2024-07-01,2024,7,RR,Rorainópolis,Amazônia,167.7,81,142.4,29.0,UC,Moderada,Não
+2024-08-01,2024,8,RR,Rorainópolis,Amazônia,222.9,92,120.7,29.1,Sem Proteção,Moderada,Sim
+2024-09-01,2024,9,RR,Rorainópolis,Amazônia,295.9,90,140.2,28.9,Sem Proteção,Intensiva,Sim
+2024-10-01,2024,10,RR,Rorainópolis,Amazônia,318.9,69,127.9,29.0,TI,Moderada,Sim
+2024-11-01,2024,11,RR,Rorainópolis,Amazônia,,83,95.2,29.0,TI,Insuficiente,Não
+2024-12-01,2024,12,RR,Rorainópolis,Amazônia,117.4,36,196.1,28.4,UC,Insuficiente,Não
+2025-01-01,2025,1,RR,Rorainópolis,Amazônia,161.9,66,210.4,28.7,UC,Moderada,Sim
+2025-02-01,2025,2,RR,Rorainópolis,Amazônia,142.0,48,197.5,,Sem Proteção,Insuficiente,Não
+2025-03-01,2025,3,RR,Rorainópolis,Amazônia,176.9,42,197.8,28.3,UC,Moderada,Não
+2025-04-01,2025,4,RR,Rorainópolis,Amazônia,218.6,27,160.1,28.1,Sem Proteção,Insuficiente,Sim
+2025-05-01,2025,5,RR,Rorainópolis,Amazônia,120.7,36,188.3,28.8,UC,Insuficiente,Não
+2025-06-01,2025,6,RR,Rorainópolis,Amazônia,226.9,67,120.4,28.8,Sem Proteção,Insuficiente,Sim
